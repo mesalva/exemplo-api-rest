@@ -1,0 +1,13 @@
+{
+  "name": "rest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andre Antunes Vieira",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
